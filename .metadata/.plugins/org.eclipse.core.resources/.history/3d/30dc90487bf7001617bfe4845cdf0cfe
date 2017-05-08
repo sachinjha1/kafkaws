@@ -1,0 +1,10 @@
+package sample;
+
+public class MyProcucer {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
